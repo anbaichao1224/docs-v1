@@ -23,7 +23,7 @@ search: true
 code_clipboard: true
 
 toc_footers:
- - <a href='https://www.fameex.net/' target='_blank'>FameEX</a>
+ - <a href='https://www.vebit.net/' target='_blank'>FameEX</a>
 
 includes:
     - doc
