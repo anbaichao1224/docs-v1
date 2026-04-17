@@ -23,12 +23,12 @@ search: true
 code_clipboard: true
 
 toc_footers:
- - <a href='https://www.vebit.net/' target='_blank'>FameEX</a>
+ - <a href='https://www.vebit.net/' target='_blank'>VebitEX</a>
 
 includes:
     - doc
 
 meta:
-  - name: FameEX OpenAPI Docs
-    content: Documentation for the FameEX OpenAPI
+  - name: VebitEX OpenAPI Docs
+    content: Documentation for the VebitEX OpenAPI
 ---

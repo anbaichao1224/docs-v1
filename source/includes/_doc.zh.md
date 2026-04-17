@@ -338,7 +338,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -889,7 +889,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -2328,7 +2328,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -2631,7 +2631,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -2941,7 +2941,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -3254,7 +3254,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -3564,7 +3564,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -3915,7 +3915,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -4862,7 +4862,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -5401,7 +5401,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -5875,7 +5875,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -6348,7 +6348,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -7237,7 +7237,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -7644,7 +7644,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -8130,7 +8130,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -8616,7 +8616,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -9117,7 +9117,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息
@@ -9583,7 +9583,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API 相关信息

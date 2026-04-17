@@ -338,7 +338,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API information
@@ -889,7 +889,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API Relevant information
@@ -2332,7 +2332,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -2635,7 +2635,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -2945,7 +2945,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -3258,7 +3258,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -3568,7 +3568,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -3919,7 +3919,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -4866,7 +4866,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -5405,7 +5405,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -5879,7 +5879,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -6352,7 +6352,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -7241,7 +7241,7 @@ import java.io.OutputStream;
 import java.time.Instant;
 import java.util.Base64;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -7648,7 +7648,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -8134,7 +8134,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -8620,7 +8620,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -9121,7 +9121,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
@@ -9587,7 +9587,7 @@ import java.nio.charset.StandardCharsets;
 import java.time.Instant;
 import java.util.Scanner;
 
-public class FameexApiRequest {
+public class VebitApiRequest {
     public static void main(String[] args) {
         try {
             // API-related information
