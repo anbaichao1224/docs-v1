@@ -23,12 +23,12 @@ search: true
 code_clipboard: true
 
 toc_footers:
- - <a href='https://www.vebit.net/' target='_blank'>VebitEX</a>
+ - <a href='https://www.vebit.net/' target='_blank'>Vebit</a>
 
 includes:
     - doc
 
 meta:
-  - name: VebitEX OpenAPI Docs
-    content: Documentation for the VebitEX OpenAPI
+  - name: Vebit OpenAPI Docs
+    content: Documentation for the Vebit OpenAPI
 ---
