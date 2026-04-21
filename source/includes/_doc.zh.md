@@ -3,9 +3,7 @@
 ## API 基本信息
 
 - 本篇 `现货交易` 列出 REST 接口的 baseurl `https://t(:spot_http_url)`。
-## - 本篇 `现货交易` 列出 REST 接口的备用 baseurl `https://t(:spot_http_url_bak)`。
 - 本篇 `合约交易` 列出 REST 接口的 baseurl `https://t(:futures_http_url)`。
-## - 本篇 `合约交易` 列出 REST 接口的 备用 baseurl `https://t(:futures_http_url_bak)`。
 - 所有接口都会返回一个 JSON、object 或者 array。
 - 响应中如有数组，数组元素以时间倒序排列，越早的数据越靠前。
 - 所有时间、时间戳均为 Unix 时间，单位为**毫秒**。

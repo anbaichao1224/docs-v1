@@ -3,9 +3,7 @@
 ## API Basic Information
 
 - This `Spot Trading` document lists the REST interface's baseurl as `https://t(:spot_http_url)`.
-## - This `Spot Trading` document lists the REST interface's backup baseurl as `https://t(:spot_http_url_bak)`.
 - This `Contract Trading` document lists the REST interface's baseurl as `https://t(:futures_http_url)`.
-## - This `Contract Trading` document lists the REST interface's backup baseurl as `https://t(:futures_http_url_bak)`.
 - All interfaces will return a JSON, object, or array.
 - If the response contains an array, the array elements are arranged in reverse chronological order, with earlier data appearing first.
 - All times and timestamps are in Unix time, with units in **milliseconds**.
